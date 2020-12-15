@@ -1,0 +1,82 @@
+li {
+  padding: 5px;
+  margin: 5px;
+  background: #faebd7;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+
+h2, h4 {
+  text-align: center;
+}
+
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+}
+
+.container {
+  background-color: #ffcc66;
+  height: 500px;
+
+}
+
+.form-group, .add {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.burger {
+  padding: 10px;
+  margin: 10px;
+  background-color: #e8f9ff;
+}
+
+.cool-font {
+  font-family: Shrikhand, cursive;
+  font-size: 24px;
+  color: #1da1f2;
+}
+
+.jumbotron {
+  font-family: Shrikhand, cursive;
+  color: white;
+  background-color: #1da1f2;
+}
+
+input,
+textarea {
+  margin: 20px;
+}
+
+.btn {
+  margin: 10px;
+  font-family: Shrikhand, cursive;
+  color: #1da1f2;
+  background-color: white;
+  border-color: #1da1f2;
+  border-style: solid;
+  border-width: 2px;
+}
+
+p {
+  margin: 0;
+  font-size: 16px;
+}

@@ -1,9 +1,9 @@
 module.exports = function(sequelize, DataTypes) {
-  var burger = sequelize.define("burger", {
+  var burgers = sequelize.define("burgers", {
     text: DataTypes.STRING,
     complete: DataTypes.BOOLEAN
   });
-  return burger;
+  return burgers;
 };
 
 
