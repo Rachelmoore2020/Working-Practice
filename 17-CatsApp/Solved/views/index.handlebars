@@ -1,6 +1,11 @@
-<h1>burgers</h1>
-
-<h2>burgers that have not been eaten</h2>
+<div class="container">
+    <br>
+  <img src="./assets/burger.png" style="width:140px" alt="cartoon pic of a burger">
+  
+  <h1 style="color:red">Eat-Da-Burger!</h1>
+</div class="twoCol">
+<div class="leftSide"></div>
+<h3>Burgers that have not been eaten</h3>
 
 <ul>
   {{#each burgers}}
@@ -9,8 +14,11 @@
     {{/unless}}
   {{/each}}
 </ul>
+</div>
 
-<h2>burgers that have been eaten.</h2>
+
+<div class="rightSide">
+<h3>Burgers that have been eaten.</h3>
 
 <ul>
   {{#each burgers}}
@@ -19,8 +27,9 @@
     {{/if}}
   {{/each}}
 </ul>
+</div>
 
-<h2>Add a burger</h2>
+<h3>Add a burger you would like to eat</h3>
 <form class="create-form">
 
   <div class="form-group">
@@ -29,4 +38,5 @@
   </div>
 
   <button type="submit">Add burger</button>
+  </div>
 </form>

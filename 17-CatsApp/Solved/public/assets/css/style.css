@@ -1,7 +1,8 @@
 li {
   padding: 5px;
   margin: 5px;
-  background: #faebd7;
+  background: #8efcce;
+  width: 250px;
 }
 
 .label {
@@ -16,4 +17,21 @@ li {
 
 .form-group {
   margin-bottom: 5px;
+}
+.container {
+  margin-left: 150px;
+}
+
+.rightSide {
+  position: relative;
+  left:400px;
+  top: -200px;
+}
+
+h3 {
+  margin-left: 50px;
+}
+
+.create-form {
+  margin-left:100px;
 }
