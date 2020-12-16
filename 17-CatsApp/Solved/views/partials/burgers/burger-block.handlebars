@@ -1,9 +1,9 @@
 <li>
 	{{name}}
-
-	<button class="change-sleep" data-id="{{id}}" data-newsleep="{{sleep}}">
-		{{#if sleep}}SLEEP TIME!{{else}}Devour!{{/if}}
+{{#unless sleepy}}
+	<button class="change-sleep" data-id="{{id}}" data-newsleep="{{sleepy}}">
+		Devour!
 	</button>
-
+{{/unless}}
 	{{!-- <button class="delete-burger" data-id="{{this.id}}">DELETE!</button> --}}
 </li>
