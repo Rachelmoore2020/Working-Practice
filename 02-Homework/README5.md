@@ -45,18 +45,18 @@
     none
 
 ## Questions:
-For questions about Node File Generator, visit my GitHub page:
+For questions about Node File Generator, visit the GitHub page:
     https://github.com/pmhagwood/no-brainertrainer
 
 ## Demonstration:
   
   ## You may also contact team members via email at:
   Rachel Moore: rachelmoore6822@gmail.com,
-  Gene Duncan: 
-  Michael Hill:
-  Maria Byler:
-  Melanie Stuart:
-  Paul Hagwood:
+  Gene Duncan: duncangw1@gmail.com,
+  Michael Hill: mike@digitalamnesia.io,
+  Maria Byler: mariabyler98@gmail.com,
+  Melanie Stuart: mmooradian90@yahoo.com,
+  Paul Hagwood: pmhagwood@gmail.com
 
   
   ## License:
