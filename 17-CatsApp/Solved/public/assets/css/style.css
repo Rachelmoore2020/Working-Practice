@@ -20,7 +20,8 @@ li {
 }
 .container {
   margin-left: 150px;
-}
+ 
+} 
 
 .rightSide {
   position: relative;
@@ -32,6 +33,9 @@ h3 {
   margin-left: 50px;
 }
 
-.create-form {
-  margin-left:100px;
+.centered {
+  /* margin-left:100px; */
+  /* vertical-align: 300px; */
+  /* position: relative; */
+  /* top: 300px; */
 }
